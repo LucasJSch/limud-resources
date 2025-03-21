@@ -1,7 +1,10 @@
-# limud-resources
-This repository contains online resources for studying different canonical and non-canonical judaism-related texts.
+# Limud Resources
 
-Special thank you to S.E.A.S. for a huge list of resources and constant learnng.
+This repository contains online resources for studying canonical and non-canonical Torah/Judaism texts.
+
+Special thank you to S.E.A.S. for a huge list of resources and constant learning.
+
+Any comments, suggestions, or contributions send an email to `lucas.scheinkerman@gmail.com`.
 
 ## TODO
 - Serie Sherki maboh toshba
