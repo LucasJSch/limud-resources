@@ -6,13 +6,6 @@ Special thank you to S.E.A.S. for a huge list of resources and constant learning
 
 Any comments, suggestions, or contributions send an email to `lucas.scheinkerman@gmail.com`.
 
-## TODO
-- 
-- Serie halbertal maboh majshaba
-- Autores interesantes: toldot emuna israelit, mejkar.
-- Alex Tseitlin
-  
-
 ## Contents
 - [Digital libraries](./digital_libraries.md)
 - [General Tanakh](./general_tanakh.md)
