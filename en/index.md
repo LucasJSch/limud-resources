@@ -11,17 +11,19 @@ Any comments, suggestions, or contributions send an email to `lucas.scheinkerman
 - [Reading](./reading.md)
 - [Digital libraries](./digital_libraries.md)
 
-### 
+<br>
 
 - [Written Torah](./tanakh.md)
 - [Oral Torah](./oral_torah.md)
 
-###
+<br>
+
 - [Moadim](./moadim.md)
 - [Machshavah](./machshava.md)
 - [Research](./research.md)
 
-### Miscellaneous
+<br>
+
 - [Material in spanish](./spanish_material.md)
 - [Stories about Chakhamim](https://chakima.org.il/חכמים/)
 - [Miscellaneous](./misc.md)
