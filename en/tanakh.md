@@ -23,5 +23,11 @@
 - [שיר השירים](./shir_hashirim_videos.md)
 - [קהלת](./kohelet_videos.md)
 
-### תושב"ע
-Coming soon
+</div>
+
+## Other
+- [Dicta - Tanakh search](https://search.dicta.org.il/he)
+- [Herzog](http://www.hatanakh.com/)
+- [HaTanakh - Interactive Tanakh Map](http://www.hatanakh.com/map)
+- [Shiurim and more](https://www.tanachstudy.com/)
+- [Megalim Institute videos](https://www.youtube.com/watch?v=HkmJUiO8tMY&list=PLIBVL6HBxsdggYoS2Zv7BSlevAYBbGfx7&index=1)
