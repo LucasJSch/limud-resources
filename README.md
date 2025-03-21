@@ -1,4 +1,3 @@
-# Limud Resources
 
 Choose your language:
 - [English](./en/index.md)
