@@ -7,7 +7,8 @@ Special thank you to S.E.A.S.
 - Serie Sherki maboh toshba
 - Serie halbertal maboh majshaba
 - Autores interesantes: toldot emuna israelit, mejkar.
-- 
+- Alex Tseitlin
+  
 ## Digital libraries
 - [Al Hatorá](https://library.alhatorah.org/)
 - [Sefaria](https://www.sefaria.org.il/texts)
