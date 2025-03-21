@@ -7,7 +7,7 @@ Special thank you to S.E.A.S. for a huge list of resources and constant learning
 Any comments, suggestions, or contributions send an email to `lucas.scheinkerman@gmail.com`.
 
 ## TODO
-- Serie Sherki maboh toshba
+- 
 - Serie halbertal maboh majshaba
 - Autores interesantes: toldot emuna israelit, mejkar.
 - Alex Tseitlin
@@ -21,5 +21,8 @@ Any comments, suggestions, or contributions send an email to `lucas.scheinkerman
 - [Tools to learn hebrew writing](./hebrew_writing.md)
 - [Tanakh reading](./tanakh_reading.md)
 - [Material in spanish](./spanish_material.md)
-- [Videos ordered by Tanakh books](./videos_tanakh.md)
-
+- [Material ordered by Tanakh books](./tanakh_ordered.md)
+- [Machshava](./machshava.md)
+- [Moadim](./moadim.md)
+- [Research](./research.md)
+- [Miscellaneous](./misc.md)

@@ -1,0 +1,1 @@
+- [Moshe Halbertal's Course - Introduction to Machshevet Israel](https://www.youtube.com/watch?v=V-Il_PzvZb0&list=PLEMOEwdRMCaloAoCjIA6Cn3tqt5i6R_96)
