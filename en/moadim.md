@@ -1,0 +1,18 @@
+- Rosh Hashana
+- Yom Kippur
+- Sukkot
+- Shemini Atzeret
+- Simchat Torah
+- Hanukkah
+- Tu Bishvat
+- Purim
+- Pesach
+- Shavuot
+- Tisha B'Av
+- Lag BaOmer
+- Yom Haatzmaut
+- Yom Yerushalayim
+- Yom Hazikaron
+- Yom Hashoah
+- Tzom Gedalia https://www.youtube.com/watch?v=J1hOrkp7j_A
+

@@ -7,8 +7,7 @@ Special thank you to S.E.A.S. for a huge list of resources and constant learning
 Any comments, suggestions, or contributions send an email to `lucas.scheinkerman@gmail.com`.
 
 ## Contents
-- [Tools to learn hebrew writing](./hebrew_writing.md)
-- [Reading](./reading.md)
+- [Hebrew writing & reading](./hebrew_writing_and_reading.md)
 - [Digital libraries](./digital_libraries.md)
 
 <br>
@@ -24,6 +23,6 @@ Any comments, suggestions, or contributions send an email to `lucas.scheinkerman
 
 <br>
 
-- [Material in spanish](./spanish_material.md)
+- [YouTube channels](./youtube_channels.md)
 - [Stories about Chakhamim](https://chakima.org.il/חכמים/)
-- [Miscellaneous](./misc.md)
+- [Material in spanish](./spanish_material.md)
