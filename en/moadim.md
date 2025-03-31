@@ -6,7 +6,7 @@
 - Hanukkah
 - Tu Bishvat
 - Purim
-- Pesach
+- [Pesach](pesach.md)
 - Shavuot
 - Tisha B'Av
 - Lag BaOmer

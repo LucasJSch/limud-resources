@@ -1,0 +1,2 @@
+- [הרב יוסף צבי רימון - על מהלך ההגדה של פסח](https://www.youtube.com/watch?v=0IUWVBupldQ)
+- [הרב יוסף צבי רימון - מבנה ההגדה של פסח](https://www.youtube.com/watch?v=elSm5uJxHGE)
