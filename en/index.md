@@ -1,8 +1,6 @@
 # Limud Resources
 
-This repository contains online resources for studying canonical and non-canonical Torah/Judaism texts.
-
-Special thank you to S.E.A.S. for a huge list of resources and constant learning.
+This repository contains online resources for studying canonical and non-canonical Torah/Judaism texts and ideas.
 
 Any comments, suggestions, or contributions send an email to `lucas.scheinkerman@gmail.com`.
 
