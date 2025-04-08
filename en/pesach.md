@@ -1,2 +1,4 @@
 - [הרב יוסף צבי רימון - על מהלך ההגדה של פסח](https://www.youtube.com/watch?v=0IUWVBupldQ)
 - [הרב יוסף צבי רימון - מבנה ההגדה של פסח](https://www.youtube.com/watch?v=elSm5uJxHGE)
+- [תנ"ך ישראלי | המסע המדברי של פסח](https://www.youtube.com/watch?v=NP-GeoKwI8M)
+- [המסע המדברי של פסח - חוברת פסח חגיגית](https://drive.google.com/file/d/1cqwrKOpcEmXuVQ7V1c2LAA_kG9bmiJw5/view)
