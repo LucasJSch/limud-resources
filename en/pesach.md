@@ -2,3 +2,4 @@
 - [הרב יוסף צבי רימון - מבנה ההגדה של פסח](https://www.youtube.com/watch?v=elSm5uJxHGE)
 - [תנ"ך ישראלי | המסע המדברי של פסח](https://www.youtube.com/watch?v=NP-GeoKwI8M)
 - [המסע המדברי של פסח - חוברת פסח חגיגית](https://drive.google.com/file/d/1cqwrKOpcEmXuVQ7V1c2LAA_kG9bmiJw5/view)
+- [ליל הסדר של חכמי יבנה | תקראו אותם - פסח | הרב דוד סבתו](https://www.youtube.com/watch?v=DAIV5Nc0J_I)
