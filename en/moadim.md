@@ -16,3 +16,4 @@
 - Yom Hashoah
 - Tzom Gedalia https://www.youtube.com/watch?v=J1hOrkp7j_A
 
+- [איך נקבע לוח השנה העברי – פרופ' עלי מרצבך](https://www.youtube.com/watch?v=99Ap_yPs364)
