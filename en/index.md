@@ -1,5 +1,7 @@
 # Limud Resources
 
+![Map](https://www.daat.ac.il/yehoshua/albom/pictures/38.jpg)
+
 This repository contains online resources for studying canonical and non-canonical Torah/Judaism texts and ideas.
 
 Any comments, suggestions, or contributions send an email to `lucas.scheinkerman@gmail.com`.
