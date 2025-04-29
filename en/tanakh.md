@@ -1,27 +1,28 @@
-### Five books of Moses
-- [Bereshit](./bereshit_videos.md)
-- [Shemot](./shemot_videos.md)
-- [Vayikira](./vayikra_videos.md)
-- [Bemidbar](./bemidbar_videos.md)
-- [Devarim](./devarim_videos.md)
+### תורת משה
+- [בראשית](./bereshit_videos.md)
+- [שמות](./shemot_videos.md)
+- [ויקרא](./vayikra_videos.md)
+- [במדבר](./bemidbar_videos.md)
+- [דברים](./devarim_videos.md)
 
 
-### Prophets
-- [Yehoshua](./yehoshua_videos.md)
-- [Shofetim](./shoftim_videos.md)
-- [Shemuel](./shemuel_videos.md)
-- [Melakhim](./melajim_videos.md)
-- [Yeshaya](./yeshaya_videos.md)
-- [Yirmiya](./yirmiya_videos.md)
+### נביאים
+- [יהושע](./yehoshua_videos.md)
+- [שופטים](./shoftim_videos.md)
+- [שמואל](./shemuel_videos.md)
+- [מלכים](./melajim_videos.md)
+- [ישעיה](./yeshaya_videos.md)
+- [ירמיה](./yirmiya_videos.md)
+- [יחזקאל](./iejezkel_videos.md)
 
-### Megilot
-- [Echa](./eija_videos.md)
-- [Ester](./ester_videos.md)
-- [Rut](./rut_videos.md)
-- [Shir Hashirim](./shir_hashirim_videos.md)
-- [Kohelet](./kohelet_videos.md)
+### מגילות
+- [איכה](./eija_videos.md)
+- [אסתר](./ester_videos.md)
+- [רות](./rut_videos.md)
+- [שיר השירים](./shir_hashirim_videos.md)
+- [קהלת](./kohelet_videos.md)
 
-## Other
+## Otros
 - [Dicta - Tanakh search](https://search.dicta.org.il/he)
 - [Herzog](http://www.hatanakh.com/)
 - [HaTanakh - Interactive Tanakh Map](http://www.hatanakh.com/map)
