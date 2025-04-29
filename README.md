@@ -12,17 +12,17 @@ Any comments, suggestions, or contributions send an email to `lucas.scheinkerman
 
 <br>
 
-- [Written Torah](./tanakh.md)
-- [Oral Torah](./oral_torah.md)
+- [תורה שבכתב](./tanakh.md)
+- [תורה שבעל פה](./oral_torah.md)
 
 <br>
 
-- [Moadim](./moadim.md)
-- [Machshavah](./machshava.md)
-- [Research](./research.md)
+- [מועדים](./moadim.md)
+- [מחשבה](./machshava.md)
+- [מחקר](./research.md)
 
 <br>
 
 - [YouTube channels](./youtube_channels.md)
-- [Stories about Chakhamim](https://chakima.org.il/חכמים/)
+- [Stories about Chachamim](https://chakima.org.il/חכמים/)
 - [Material in spanish](./spanish_material.md)
