@@ -5,3 +5,5 @@
 - [בין ירושלים לבבל 4 - חזון העצמות היבשות - ד"ר טובה גנזל](https://www.youtube.com/watch?v=z9lYEBHAX2g)
 - [בין ירושלים לבבל 5 - המקדש העתידי - ד"ר טובה גנזל
 ](https://www.youtube.com/watch?v=dln4i0eNGu8)
+- [Eva Tobalina - Los Fenicios: origen, desarrollo y apogeo](https://www.youtube.com/watch?v=Nyv9iQFw298&ab_channel=RaicesdeEuropa)
+- [Los fenicios (I): entre el misterio y la realidad - La March](https://www.youtube.com/watch?v=aVz6pc4twvY&ab_channel=Fundaci%C3%B3nJuanMarch)
