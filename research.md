@@ -4,8 +4,7 @@
 - [Eretz Chefer](https://www.youtube.com/watch?v=dWsMW8ecYsM&list=PLv2rnAORLiVDuo4A7NUfHXtZYkdsDcvb9)
 - [Netanel Elinson - In the way of the Sippur](https://www.youtube.com/watch?v=hOQNzj4Dbc4&list=PLXv9BeKApRvwrW92A0Jm_JXHLDfycL033)
 - [קדמות המסתורין בישראל - Research on Origins of the Zohar](https://www.daat.ac.il/daat/vl/Kadmut_Mistorin/Kadmut_Mistorin01.pdf)
-- [חוקר ארכיאולוגיה מקראית
- - ChatGPT](https://chatgpt.com/g/g-67bdfaf685188191a07d8212f28ee556-khvqr-rkyvlvgyh-mqryt)
+- [חוקר ארכיאולוגיה מקראית - ChatGPT](https://chatgpt.com/g/g-67bdfaf685188191a07d8212f28ee556-khvqr-rkyvlvgyh-mqryt)
 - [ארכאולוגיה מקראית - ממצאים ומפות](https://biblical-archaeology.org/)
 - [Olga Olina - The Polyglots of Ancient Near East
 ](https://www.youtube.com/watch?v=C1UDV4pX7YI&t=88s&ab_channel=PolyglotConference)
