@@ -8,6 +8,7 @@ Special thank you to S.E.A.S. for a huge list of resources and constant learnng.
 - Serie halbertal maboh majshaba
 - Autores interesantes: toldot emuna israelit, mejkar.
 - Alex Tseitlin
+- Fuentes RH, YK, sukot
   
 
 ## Contents
